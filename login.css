@@ -6,11 +6,12 @@
 }
 
 body{
-    background: grey ;
-}
+    background: url(wi.jpg);
+    
+   }
 
 div.kotakbcgr{
-    background: #ffffff;
+    background: ;
     width: 350px;
     margin: 222px auto 0;
     border-radius: 16px;
@@ -19,13 +20,13 @@ div.kotakbcgr{
 }
 
 div.headerf{
-    background: slateblue;
+    background: ;
     padding: 10px 22px;
     height: 60px;
 }
 
 div.headerf h2.judul{
-    color: #fff;
+    color: #ffffff;
     font-weight: normal;
     line-height: 40px;
     display: inline-block;
@@ -45,7 +46,7 @@ div.locksign{
 
 div.data{
     padding:10px 22px 0;
-    color: #000000;
+    color: #fff;
 }
 
 div.data div.grup{
