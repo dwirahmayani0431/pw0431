@@ -1,0 +1,19 @@
+.header{
+	background: #000; 
+	width:900px;
+	height: 125px;
+	margin:0 auto;
+}
+
+.header h1{
+	text-align: right;
+	margin-right: 25px;
+	font-family: vendana;
+	color: white;
+	padding-top: 25px;
+	border-radius: 10px
+}
+.header small{
+	font-size: 50%;
+	border-bottom: 1px solid #fff
+}
